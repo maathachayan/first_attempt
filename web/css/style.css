@@ -1,0 +1,30 @@
+/*table,th,td{
+ border-color: aqua;
+ border-collapse: collapse;
+    border:1px solid black;
+}
+thead{
+    background-color: blue;
+    color: bisque;
+}
+thead:hover{
+    background-color: brown;
+}
+td{
+    background-color: burlywood;
+}*/
+.mylink{ 
+    background-color:cyan ;
+}
+.mylink:hover{
+    background-color: darkgrey;
+}
+.demo{
+    background-color: cornsilk;
+    width:50%
+    height: 100px;
+}
+#head1 /* ------ID-----*/
+{color: darkgrey;
+font size: 40px;
+}
